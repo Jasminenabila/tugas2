@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatCatalogueMovie</string>
+    <string name="cari_film_nih">Judul Film</string>
+    <string name="nyari">Cari</string>
+    <string name="title_gan">Title</string>
+    <string name="deskripsi">Description</string>
+    <string name="tanggal">Date</string>
+    <string name="rating">Rating</string>
+</resources>
