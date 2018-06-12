@@ -18,6 +18,7 @@
         android:weightSum="2">
 
         <EditText
+            android:id="@+id/editjudul"
             android:layout_width="272dp"
             android:layout_height="match_parent"
             android:layout_weight="0.3"
